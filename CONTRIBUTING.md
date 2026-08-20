@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/QR-Code-Generator.git
+git clone https://github.com/AetherCodeHQ/QR-Code-Generator.git
 cd QR-Code-Generator
 ```
 
